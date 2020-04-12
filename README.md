@@ -6,7 +6,7 @@ Created a thurough analysis of Pyber's Ride Sharing data. Displayed analysis fin
 
 ## Resources
 
-Data Source: 
+Data Source: PyBer_ride_data.csv
 Software: Python 3.6.1 and Jupyter Notebook
 
 ## Project Summary
@@ -32,7 +32,7 @@ Create a Multiple-Line Plot for the Sum of the Fares for Each City Type.
 
 ## Resources
 
-Data Source: 
+Data Source: PyBer_ride_data.csv
 Software: Python 3.6.1 and Jupyter Notebook
 
 ## Challenge Summary
