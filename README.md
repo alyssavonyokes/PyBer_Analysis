@@ -38,10 +38,6 @@ Software: Python 3.6.1 and Jupyter Notebook
 ## Challenge Summary
 
 
-- Total Rides: 125, 625, 1625
-- Total Drivers: 78, 490, 2405
-- Total Fares: $4327.93, $19356.33, $39854.38
-- Average Fare per Ride: $34.62, $30.97, $24.53
-- Average Fare per Driver: $55.49, $39.50, $16.57
+![Final Table Summary](https://github.com/alyssavonyokes/PyBer_Analysis/blob/master/Analysis/Final%20Table.png)
 
 ![Final Multi-Line Plot](https://github.com/alyssavonyokes/PyBer_Analysis/blob/master/Analysis/Fig10.png)
